@@ -172,7 +172,7 @@ def plot_time_voltage_error_by_bin(df, bins=30, log_bins=True):
 ###---------------------------------------------------------------------###
 
 # parse USF, input your specific file path in place of this one
-df = parse_usf_file("D:/Project36/Station2/20260423_175421_378_Station2.usf")
+df = parse_usf_file("D:/Project37/Station5/20260425_094710_179_Station5.usf")
 
 #Original path example given C:/Users/yetfl/Space Grant/HoverTEM/USFParsing/20251009_095621_409_Station1.usf
 
